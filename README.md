@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, sou o João! 👋
 
-<!--
-**joaopradoiii/joaopradoiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em busca de novos desafios na área de tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Cursando **Engenharia de Software** na UNISUL.
+- 💻 Foco atual de estudos e prática: **Java** e Programação Orientada a Objetos (POO).
+- 🛠️ Bagagem prévia com suporte técnico de TI, montagem, manutenção e redes.
+- ⚡ Entusiasta de automações, lógica de programação e aplicação prática de IA no dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, JavaScript
+- **Em estudo / Prática:** Lógica de Programação, Estruturas de Dados, POO, Git & GitHub
+- **Ferramentas:** VS Code, Git
+
+---
+
+### 📬 Onde me encontrar
+- **LinkedIn:** (https://www.linkedin.com/in/jo%C3%A3o-alves-do-prado-iii/)
+- **E-mail:** pradoiii@hotmail.com
