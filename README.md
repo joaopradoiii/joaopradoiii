@@ -19,4 +19,4 @@ Em busca de novos desafios na área de tecnologia e desenvolvimento de software.
 
 ### 📬 Onde me encontrar
 - **LinkedIn:** (https://www.linkedin.com/in/jo%C3%A3o-alves-do-prado-iii/)
-- **E-mail:** pradoiii@hotmail.com
+- **E-mail:** pradoiii30@gmail.com
